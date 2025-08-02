@@ -3,8 +3,12 @@
 🎓 Développeur passionné par Django, Python, et les applications web modernes.
 
 🚀 Projets récents :
-portfolio
-- [index.html](https://claudeprogrammeur.github.io)
+
+# Mon dépôt GitHub
+Bienvenue sur mon dépôt !
+
+Pour voir mon portfolio, cliquez ici : [Portfolio](https://claudeprogrammeur.github.io/claudeprogrammeur/)
+
 - Une API Django REST pour une plateforme e-commerce
 
 🛠️ Compétences :
