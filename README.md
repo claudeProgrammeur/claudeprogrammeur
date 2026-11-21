@@ -10,8 +10,7 @@
 
 ---
 
-## 🧠 À propos de moi
-### 🌐 Mon Portfolio Web Interactif
+## 🧠 À propos de moi ### 🌐 Mon Portfolio Web Interactif
 👉 **[Découvrir mon portfolio complet et mes démonstrations en ligne](https://claudeprogrammeur.github.io)**
 
 Je suis un **développeur web** et **ingénieur en IA & Big Data** passionné par la transformation des données brutes en solutions utiles pour les entreprises.
